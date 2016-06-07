@@ -39,7 +39,7 @@ unzip the package and open http://www.example.org/phpmyfaq/setup/index.php in yo
     $ curl -s https://getcomposer.org/installer | php
     $ php composer.phar install
     $ npm install
-    $ bower install
+    $ bower-installer
     $ grunt
 
 Then just open http://www.example.org/phpmyfaq/setup/index.php in your browser.
